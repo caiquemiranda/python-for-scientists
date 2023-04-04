@@ -1,4 +1,3 @@
-
 # File: scripts/fib.py Fibonacci numbers
 
 """ Module fib: Fibonacci numbers.
